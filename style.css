@@ -1,0 +1,29 @@
+{
+        margin: 0;
+        padding: 0;
+        font-size: 100.01%;
+}
+
+body {
+        text-align: center;
+        font: 62.5%/1.5 Verdana, sans-serif;
+}
+
+.container {
+        text-align: left;
+        margin: 0 auto;
+        padding-top: 150px;
+        width: 710px;
+}
+
+h1 {
+	font-size: 3em;
+	font-weight: normal;
+	color: #999;
+}
+
+.contacts {
+	font-size: 1.3em;
+	text-align: left;
+	padding-left: 30px;
+}
